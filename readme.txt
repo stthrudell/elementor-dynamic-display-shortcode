@@ -1,10 +1,12 @@
 === Dynamic Display Shortcode for Elementor ===
 Contributors: stthrudell
 Tags: dynamic-display, column, section, elementor, hide-column, hide-section
-Requires at least: 4.6
+Requires at least: 5.0
 Requires PHP: 5.6
 Tested up to: 5.7
 Stable tag: 1.0.0
+License: GPLv3
+License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
 Dynamic Display Shortcode for Elementor hides and shows sections and columns from elementor dynamically with shortcodes support.
 
