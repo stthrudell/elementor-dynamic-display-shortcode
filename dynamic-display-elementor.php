@@ -1,11 +1,11 @@
 <?php
 /**
- * Elementor Dynamic Display With Shortcode
+ * Dynamic Display Sections Elementor With Shortcode
  *
  * @package ElementorDynamicDisplay
  *
- * Plugin Name: Elementor Dynamic Display With Shortcode
- * Description: Display elementor sections and columns dynamic.
+ * Plugin Name: Dynamic Display Sections
+ * Description: Display elementor sections and columns dynamic with shortcode.
  * Plugin URI:  https://stthrudell.github.io/
  * Version:     1.0.0
  * Author:      Jean Stthrudell
@@ -19,7 +19,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 
 define('ELEMENTOR_DYNAMIC_DISPLAY_PATH', __FILE__);
  
-final class Elementor_Dynamic_display {
+final class Dynamic_Display_SElementor {
  
     const VERSION = '1.0';
     const MINIMUM_ELEMENTOR_VERSION = '2.0.0';
@@ -248,4 +248,4 @@ final class Elementor_Dynamic_display {
         // wp_enqueue_script("bootstrap-js");
     }
 }
-Elementor_Dynamic_display::instance();
+Dynamic_Display_SElementor::instance();
