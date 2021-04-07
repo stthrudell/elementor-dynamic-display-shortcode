@@ -6,7 +6,7 @@
  *
  * Plugin Name: Dynamic Display Sections
  * Description: Display elementor sections and columns dynamic with shortcode.
- * Plugin URI:  https://stthrudell.github.io/
+ * Plugin URI:  https://github.com/stthrudell/elementor-dynamic-display-shortcode
  * Version:     1.0.0
  * Author:      Jean Stthrudell
  * Author URI:  https://stthrudell.github.io/
