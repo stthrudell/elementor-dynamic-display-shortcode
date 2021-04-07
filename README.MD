@@ -1,4 +1,4 @@
-Elementor Dynamic Display With Shortcode hides and shows sections and columns from elementor dinamically with shortcodes support.
+Elementor Dynamic Display With Shortcode hides and shows sections and columns from elementor dynamically with shortcodes support.
 
 ## Description
 
@@ -8,12 +8,12 @@ Elementor Dynamic Display With Shortcode can hide or show sections and columns f
 
 * Show/Hide dynamic
 * Support shortcode
-* Show/Hide Loggued users
-* Show/Hide Unloggued users
+* Show/Hide Logged in users
+* Show/Hide logged ou users
 
 ## Next Features
 
-* Compatibility with other widgtes besides sections and columns
+* Compatibility with other widgets besides sections and columns
 
 ## Did you liked this plugin?
 
