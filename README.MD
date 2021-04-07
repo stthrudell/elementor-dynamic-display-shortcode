@@ -6,10 +6,10 @@ Elementor Dynamic Display With Shortcode can hide or show sections and columns f
 
 ## Features
 
-* Show/Hide dynamic
-* Support shortcode
+* Show/Hide dynamically
+* Shortcode Support
 * Show/Hide Logged in users
-* Show/Hide logged ou users
+* Show/Hide logged out users
 
 ## Next Features
 
